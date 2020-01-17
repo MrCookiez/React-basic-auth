@@ -1,3 +1,9 @@
+### NodeJS + MySQL + Sequelize (Login + Register) - Explanation Video
+
+https://www.youtube.com/watch?v=1Wvs5h3K_As
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
